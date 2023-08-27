@@ -1,2 +1,2 @@
 # BlackJack
-Simple BlackJack program (FREE)
+Simple BlackJack program created in replit
